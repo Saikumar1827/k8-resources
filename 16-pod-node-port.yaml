@@ -6,7 +6,7 @@ metadata:
   labels:
     project: roboshop
     component: frontend
-    envirnoment: dev
+    environment: dev
     purpose: node-port
 spec:
   containers:
